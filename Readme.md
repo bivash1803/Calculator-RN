@@ -1,0 +1,4 @@
+This is a normal Calculator application uisng react native. I have used Typescript to design every thing.
+When you see this project please first please pull it on your local System from git.
+Also When you run the program please confirm that you have to install expo in Android and Ios Device and after install that. You have to install React_native Scripts please do that and atlast you have to type npm start the server will be start and one QR code will come and you have to scan that QR code using expo app yor application will be run in androi and ios devices 
+And Very important things that you have run this application in mobile using expo and you have to connected with same server.
